@@ -1,0 +1,11 @@
+{
+  "mongoURI": "mongodb+srv://yoni:yoni123@devconnector.pl3bs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "options": {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "useCreateIndex": true,
+    "useFindAndModify": false,
+    "poolSize": 0
+  },
+  "jwtSecret": "mysectettoken"
+}
