@@ -103,7 +103,7 @@ export const createProfile = (
     if (!edit) {
       /* This is redirecting in action. It is a bit different
        * than redirection in component
-       * which we can siply use <Redirect> component
+       * which we can simply use <Redirect> component
        */
       history.push('/dashboard');
     }
